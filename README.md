@@ -1,2 +1,28 @@
-# 46e8f118-mining-natural-resources-ven
-Tired of lost supplier contracts, inconsistent vendor scores, and procurement bottlenecks that stall your mining operations? Stop chasing spreadsheets—your entire vendor evaluation and procurement pipeline now lives in one structured Notion dashboard.  This Mining &amp; Natural Resources Vendor Evaluation and Procurement Notion Template eliminates manu
+# Mining & Natural Resources Vendor Evaluation and Procurement Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/00wdR9h1BbUE1debzSd0k0E)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/00wdR9h1BbUE1debzSd0k0E)
+
